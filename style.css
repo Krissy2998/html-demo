@@ -1,0 +1,20 @@
+marquee {
+    font-size: 100px;
+    color: blueviolet;
+}
+h1 {
+    font-size: 80;
+    color:rgb(107, 140, 140)
+}
+body{
+    background-color: bisque;
+}
+.text{
+    font-family: monospace;
+    font-size: 18px;
+}
+.mini--header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    color:tomato;
+}
